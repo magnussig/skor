@@ -12,15 +12,15 @@
 - [ ] hýsa!
 ## hönnun
 
-#API
+# API
 blablabla
 
-#Gagnagrunnur
+# Gagnagrunnur
 mysql blablabla
 eða Firebase?
 
-#UI
+# UI
 flottar myndir?
 
-#Hýsing
+# Hýsing
 Digital Ocean? 1984? Firebase?
