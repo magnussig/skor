@@ -9,7 +9,7 @@ $ flask run
  * Running on http://127.0.0.1:5000/
 ```
 
-- [I'm an inline-style link](https://www.google.com)
+- [Trueskill](https://trueskill.org/)
 
 
 # plan
